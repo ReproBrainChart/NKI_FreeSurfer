@@ -1,1 +1,2 @@
 2e0e7774-99e2-4610-802f-d19bf542a936 archive-id=2e2d6f86-431e-4cf9-bdea-1910c945eea5 autoenable=true encryption=none externaltype=ora name=output-storage type=external url=ria+file:///cbica/projects/RBC/freesurfer_stats/NKI/fs-tabulate/output_ria timestamp=1697650270.493134314s
+3e959b86-3e4e-4854-9ba9-aa274fba3e97 autoenable=true bucket=fcp-indi datacenter=US encryption=none exporttree=no fileprefix=data/Projects/RBC/NKI_FreeSurfer/ host=s3.amazonaws.com name=fcp-indi partsize=1GiB port=80 public=yes storageclass=STANDARD type=S3 timestamp=1698117697.268483846s
